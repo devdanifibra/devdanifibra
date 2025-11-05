@@ -30,6 +30,7 @@ Sou um nerd por inteiro e adoro fazer ferramentas que ajudem as pessoas, especia
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danirsena&repo=Eventos-Bootcamp&theme=dark)](https://github.com/danirsena/Eventos-Bootcamp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danirsena&repo=AjudaMath&theme=dark)](https://github.com/danirsena/AjudaMath)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danirsena&repo=code4causes&theme=dark)](https://github.com/danirsena/code4causes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danirsena&repo=fnafapi&theme=dark)](https://github.com/danirsena/fnafapi)
 
 
 ### Frequência de linguagens
