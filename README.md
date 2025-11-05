@@ -5,8 +5,11 @@ Sou um nerd por inteiro e adoro fazer ferramentas que ajudem as pessoas, especia
 
 
 ### Minhas principais redes sociais
-[![Meu Instragam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/odanielrsena/)
-[![Meu LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ramos-sena-84226724a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danirsena/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white)](https://www.linkedin.com/in/danirsena/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=icloud&logoColor=white)](https://danirsena-portfolio.vercel.app)
+
+
 
 
 ### Linguangens que uso
@@ -17,16 +20,18 @@ Sou um nerd por inteiro e adoro fazer ferramentas que ajudem as pessoas, especia
 	<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"> 
+	<img src="https://img.shields.io/badge/Php-8892BE?style=for-the-badge&logo=php&logoColor=white)https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="PHP"> 
  	
 </div>
 
 
 ### Meus principais repósitórios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielRSena&repo=Eventos-Bootcamp&theme=dark)](https://github.com/DanielRSena/Eventos-Bootcamp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielRSena&repo=AjudaMath&theme=dark)](https://github.com/DanielRSena/AjudaMath)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danirsena&repo=Eventos-Bootcamp&theme=dark)](https://github.com/danirsena/Eventos-Bootcamp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danirsena&repo=AjudaMath&theme=dark)](https://github.com/danirsena/AjudaMath)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danirsena&repo=code4causes&theme=dark)](https://github.com/danirsena/code4causes)
 
 
 ### Frequência de linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRSena&layout=pie&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danirsena&layout=pie&theme=dark)
