@@ -4,9 +4,9 @@ Sou um nerd por inteiro e adoro fazer ferramentas que ajudem as pessoas, especia
 
 
 ### Minhas principais redes sociais
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danirsena/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white)](https://www.linkedin.com/in/danirsena/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=icloud&logoColor=white)](https://danirsena-portfolio.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danidevfibra/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white)](https://www.linkedin.com/in/danidevfibra/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=icloud&logoColor=white)](https://danidevfibra.vercel.app)
 
 
 ### Linguangens que uso
@@ -23,12 +23,12 @@ Sou um nerd por inteiro e adoro fazer ferramentas que ajudem as pessoas, especia
 
 ### Meus principais repósitórios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danirsena&repo=code4causes&theme=dark)](https://github.com/danirsena/code4causes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danirsena&repo=hackathon_unisoma_2024&theme=dark)](https://github.com/danirsena/hackathon_unisoma_2024)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danirsena&repo=fnafapi&theme=dark)](https://github.com/danirsena/fnafapi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danirsena&repo=ajudamath&theme=dark)](https://github.com/danirsena/ajudamath)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danidevfibra&repo=code4causes&theme=dark)](https://github.com/danidevfibra/code4causes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danidevfibra&repo=hackathon_unisoma_2024&theme=dark)](https://github.com/danidevfibra/hackathon_unisoma_2024)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danidevfibra&repo=fnafapi&theme=dark)](https://github.com/danidevfibra/fnafapi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danidevfibra&repo=ajudamath&theme=dark)](https://github.com/danidevfibra/ajudamath)
 
 
 ### Frequência de linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danirsena&layout=pie&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danidevfibra&layout=pie&theme=dark)
