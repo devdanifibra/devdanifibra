@@ -4,7 +4,7 @@ Sou um nerd por inteiro e adoro fazer ferramentas que ajudem as pessoas, especia
 
 
 ### Minhas principais redes sociais
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devdanifibra/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danirsena/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white)](https://www.linkedin.com/in/devdanifibra/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=icloud&logoColor=white)](https://devdanifibra.vercel.app)
 
