@@ -19,16 +19,3 @@ Sou um nerd por inteiro e adoro fazer ferramentas que ajudem as pessoas, especia
 	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"> 
 	<img src="https://img.shields.io/badge/Php-8892BE?style=for-the-badge&logo=php&logoColor=white)https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="PHP"> 
 </div>
-
-
-### Meus principais repósitórios
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danidevfibra&repo=code4causes&theme=dark)](https://github.com/devdanifibra/code4causes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danidevfibra&repo=hackathon_unisoma_2024&theme=dark)](https://github.com/devdanifibra/hackathon_unisoma_2024)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danidevfibra&repo=fnafapi&theme=dark)](https://github.com/devdanifibra/fnafapi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danidevfibra&repo=ajudamath&theme=dark)](https://github.com/devdanifibra/ajudamath)
-
-
-### Frequência de linguagens
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdanifibra&layout=pie&theme=dark)
